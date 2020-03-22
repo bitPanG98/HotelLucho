@@ -289,6 +289,9 @@ public class Sesion extends javax.swing.JFrame {
             .addGap(0, 159, Short.MAX_VALUE)
         );
 
+        jPasswordFieldContraseña.setFont(new java.awt.Font("Times New Roman", 0, 13)); // NOI18N
+        jPasswordFieldContraseña.setHorizontalAlignment(javax.swing.JTextField.CENTER);
+
         jRadioButton_Mostrar.setFont(new java.awt.Font("Times New Roman", 0, 12)); // NOI18N
         jRadioButton_Mostrar.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
